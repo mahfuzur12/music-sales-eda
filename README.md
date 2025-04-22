@@ -1,4 +1,4 @@
-# EDA of Music Sales Data
+# 🎵 Exploratory Data Analysis of Music Sales
 
 This project performs an exploratory data analysis (EDA) on a dataset containing music sales data. The goal is to understand the distribution and trends in the data, and generate insights through visualisations and summary statistics.
 
@@ -21,7 +21,7 @@ In this project, I use Python libraries such as Pandas, Seaborn, and Matplotlib 
 
 ## Setup and Installation
 
-### Prerequisites
+### 🛠️ Prerequisites
 
 - Python 3.x
 - Jupyter Notebook or JupyterLab (for interactive notebooks)
@@ -29,7 +29,7 @@ In this project, I use Python libraries such as Pandas, Seaborn, and Matplotlib 
 - seaborn
 - matplotlib
 
-### Installation
+### 🚀 Installation
 
 1. Clone this repository to your local machine:
    ```bash
@@ -48,7 +48,7 @@ In this project, I use Python libraries such as Pandas, Seaborn, and Matplotlib 
 
 4. Open the notebook and begin analysing the data.
 
-## Dataset
+## 📁 Dataset
 
 The dataset used in this project is a CSV file named `MusicData.csv`. It contains the following columns:
 
@@ -67,7 +67,7 @@ In this notebook, the following steps are performed:
 3. **Grouping and Aggregation**: Data is grouped by different columns (e.g., Year, Format) to analyse the total or average values.
 4. **Visualisations**: Various plots (e.g., bar plots, line plots, box plots) are created to visualise the distribution and trends in the data.
 
-### Key Insights
+### 📊 Key Insights
 
 - The **top 5 years with the highest average value** across the dataset show the years with the most significant sales.
 - **Sales by format** reveal which formats were the most popular over the years.
